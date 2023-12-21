@@ -7,9 +7,7 @@ These table of contents list each professional subject in which I have experienc
 
 # Table of Contents
 
-## [Polygon Validator Engagement Specialist Coverletter ](Tech_Writing_and_Blockchain_Portfolio/Polygon/polygon.md)
-
-## [Technical Writing / Blockchain Writing](Tech_Writing_and_Blockchain_Portfolio/Tech_Writing/techwriting.md)
+## [Technical Writing / Blockchain Writing](https://github.com/adrianhacker-pdx/Tech_Portfolio/blob/main/portfolio/Tech_Writing_and_Blockchain_Portfolio/Tech_Writing_and_Blockchain_Portfolio/Tech_Writing/techwriting.md)
 
 ## [Personal Website Example](https://adrianhacker.us)
 
