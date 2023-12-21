@@ -11,9 +11,4 @@ These table of contents list each professional subject in which I have experienc
 
 ## [Personal Website Example](https://adrianhacker.us)
 
-## [IBM Skills Build Credentials](/Tech_Portfolio/portfolio/IBM%20Skills%20Build%20Credentials/ibm.md)
-
-
-
-
-
+## [IBM Skills Build Credentials](/Tech_Portfolio/portfolio/'IBM Skills Build Credentials'/ibm.md)
