@@ -9,6 +9,4 @@ These table of contents list each professional subject in which I have experienc
 
 ## [Technical Writing / Blockchain Writing](portfolio/Tech_Writing_and_Blockchain_Portfolio/Tech_Writing/Tech_Writing/techwriting.md)
 
-## [Personal Website Example](https://adrianhacker.us)
-
 ## [IBM Skills Build Credentials](/Tech_Portfolio/portfolio/'IBM Skills Build Credentials'/ibm.md)
