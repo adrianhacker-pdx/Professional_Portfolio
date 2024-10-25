@@ -34,7 +34,7 @@ Project Notes: During this project, I had no prior experience in Android app dev
 
 [A Deep Dive into the Ethereum Virtual Machine (EVM) - Part 3: Execution Model of the EVM](https://kauri.io/a-deep-dive-into-the-ethereum-virtual-machine-evm/ded63988153147348d7c9617b09135af/a)
 
-[A Deep Dive into the Ethereum Virtual Machine - Part 4: The EVM and High-Level Programming Languages](https://kauri.io/a-deep-dive-into-the-ethereum-virtual-machine-par/7a04c82396fd416892e07db4915eb233/a)
+[A Deep Dive into the Ethereum Virtual Machine - Part 4: The EVM and High-Level Programming Languages](https://kauri.io/#collections/A%20Deep%20Dive%20Into%20The%20Ethereum%20Virtual%20Machine%20(EVM)%20Series/a-deep-dive-into-the-ethereum-virtual-machine-par/)
 
 Project Notes: The two articles mentioned above were initially abandoned Gitcoin bounties, which I completed. When I undertook these projects, my understanding of the Ethereum Virtual Machine (EVM) was minimal. However, I conducted extensive research on the EVM, rapidly assimilating the essential facts needed to write these in-depth explorations. These articles were designed for an audience with limited technical knowledge and non-professional background. Eventually, the bounties were accepted and incorporated into Kauri.io, a website dedicated to blockchain education.
 
